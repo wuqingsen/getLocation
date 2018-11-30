@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GetMyPlace</string>
+
+    <string name="myPlace">使用我的位置</string>
+    <string name="placeError">定位失败,请重试</string>
+</resources>
